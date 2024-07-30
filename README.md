@@ -1,7 +1,7 @@
 # 科学上网，翻墙机场整理推荐
 
 自己珍藏多年的机场分享一下，所有机场都经过本人实测，让你轻松足不出户即可遨游世界   
-**（建议收藏本项目，每周不定期更新，如果此项目对你有帮助的话，star一下呗~）**：
+**（建议收藏本项目，不定期更新，如果此项目对你有帮助的话，star一下呗~）**：
 
 **找不到工具？（Android/IOS/Windows/Mac/Linux科学上网客户端：**[科学上网客户端](https://github.com/JOELU141/v2raytrojanssrshare/blob/main/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%AE%A2%E6%88%B7%E7%AB%AFandroid%2Bios%2Bpc)
 
